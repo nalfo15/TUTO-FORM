@@ -1,0 +1,10 @@
+C:\Users\noecu\source\repos\windows form1\windows form1\obj\Debug\windows form1.csproj.AssemblyReference.cache
+C:\Users\noecu\source\repos\windows form1\windows form1\obj\Debug\windows_form1.Form1.resources
+C:\Users\noecu\source\repos\windows form1\windows form1\obj\Debug\windows_form1.Properties.Resources.resources
+C:\Users\noecu\source\repos\windows form1\windows form1\obj\Debug\windows form1.csproj.GenerateResource.cache
+C:\Users\noecu\source\repos\windows form1\windows form1\obj\Debug\windows form1.csproj.CoreCompileInputs.cache
+C:\Users\noecu\source\repos\windows form1\windows form1\bin\Debug\windows form1.exe.config
+C:\Users\noecu\source\repos\windows form1\windows form1\bin\Debug\windows form1.exe
+C:\Users\noecu\source\repos\windows form1\windows form1\bin\Debug\windows form1.pdb
+C:\Users\noecu\source\repos\windows form1\windows form1\obj\Debug\windows form1.exe
+C:\Users\noecu\source\repos\windows form1\windows form1\obj\Debug\windows form1.pdb
